@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "BAPTIZE",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2025-12-05T12:47:45.101545Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baptize",
+      "artist": "Dawn Richard",
+      "has_synced": true,
+      "path": "select/01_Baptize_Dawn_Richard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baptize Me",
+      "artist": "X Ambassadors feat. Jacob Banks",
+      "has_synced": true,
+      "path": "select/02_Baptize_Me_X_Ambassadors_feat._Jacob_Banks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baptize Me",
+      "artist": "X Ambassadors",
+      "has_synced": true,
+      "path": "select/03_Baptize_Me_X_Ambassadors.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baptize",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/04_Baptize_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baptize Me",
+      "artist": "Nikki M. James feat. Josh Gad",
+      "has_synced": false,
+      "path": "select/05_Baptize_Me_Nikki_M._James_feat._Josh_Gad.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baptize Me",
+      "artist": "Nikki M. James",
+      "has_synced": false,
+      "path": "select/06_Baptize_Me_Nikki_M._James.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baptize",
+      "artist": "妖精帝國",
+      "has_synced": true,
+      "path": "select/07_Baptize_妖精帝國.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baptize My Soul",
+      "artist": "Anastacia",
+      "has_synced": true,
+      "path": "select/08_Baptize_My_Soul_Anastacia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baptize (with JID & EARTHGANG feat. Ant Clemons)",
+      "artist": "Spillage Village feat. JID, EARTHGANG & Ant Clemons",
+      "has_synced": true,
+      "path": "select/09_Baptize_(with_JID_&_EARTHGANG_feat._Ant_Clemons)_Spillage_Village_feat._JID,_EARTHGANG_&_Ant_Clemons.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baptize",
+      "artist": "Spillage Village, JID & EARTHGANG",
+      "has_synced": true,
+      "path": "select/10_Baptize_Spillage_Village,_JID_&_EARTHGANG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baptize Me",
+      "artist": "Benjamin James",
+      "has_synced": false,
+      "path": "select/11_Baptize_Me_Benjamin_James.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baptize",
+      "artist": "Spillage Village, JID, EARTHGANG, Ant Clemons",
+      "has_synced": true,
+      "path": "select/12_Baptize_Spillage_Village,_JID,_EARTHGANG,_Ant_Clemons.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baptize Me",
+      "artist": "Jaci Velasquez",
+      "has_synced": true,
+      "path": "select/13_Baptize_Me_Jaci_Velasquez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baptize Me",
+      "artist": "X Ambassadors; Jacob Banks",
+      "has_synced": true,
+      "path": "select/14_Baptize_Me_X_Ambassadors;_Jacob_Banks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baptize Me",
+      "artist": "The Exies",
+      "has_synced": true,
+      "path": "select/15_Baptize_Me_The_Exies.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baptize Me",
+      "artist": "Saving Abel",
+      "has_synced": true,
+      "path": "select/16_Baptize_Me_Saving_Abel.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baptize",
+      "artist": "Spillage Village",
+      "has_synced": true,
+      "path": "select/17_Baptize_Spillage_Village.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Baptize the Beat",
+      "artist": "The System",
+      "has_synced": false,
+      "path": "select/18_Baptize_the_Beat_The_System.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAPTIZE",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_BAPTIZE_ELFENSJóN.txt"
+    }
+  ]
+}
